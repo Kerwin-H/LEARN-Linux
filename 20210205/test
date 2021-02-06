@@ -1,0 +1,14 @@
+#include<stdio.h>
+
+int main(){
+
+	printf("这一节主要是数量掌握对于linux操作的熟悉\n");
+
+
+
+	return 0;
+}
+
+
+
+
